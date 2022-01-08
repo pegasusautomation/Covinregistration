@@ -65,8 +65,7 @@ public class CovinLoginVerification {
 //		driver.findElement(By.xpath("//mat-option//span[text() = 'Mobile']")).click();
 //		driver.findElement(By.xpath("//ion-button[contains(@class, 'searchBeneficiery')]")).isDisplayed();
 //		driver.findElement(By.xpath("//ion-button[contains(@class, 'searchBeneficiery')]")).click();
-		
-		
+				
 		 driver.close();
 		 driver.quit();
 		}
